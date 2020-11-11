@@ -1,0 +1,13 @@
+{
+  "CLOC": {
+    "removeDirectoryCommand": "rmdir /s /q",
+    "repositoryURL": "https://github.com/4ist/4ist.net.git",
+    "targetDirectory": "temp"
+  },
+
+  "email": {
+    "recipient": "",
+    "SMTPURL": "smtp.gmail.com",
+    "SMTPPort": 465
+  }
+}
