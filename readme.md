@@ -1,6 +1,6 @@
 # GitHub Repo Scanner
 
-This is a python application that scans a specified GitHub source repository with CLOC and (optionbally) sends the CLOC scan output via email.
+This is a python application that scans a specified GitHub source repository with CLOC and (optionally) sends the CLOC scan output via email.
 
 ## Setup
 The application can be executed by running `python main.py` in the root directory.
