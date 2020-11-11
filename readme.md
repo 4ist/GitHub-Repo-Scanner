@@ -5,10 +5,10 @@ This is a python application that scans a specified GitHub source repository wit
 ## Setup
 The application can be executed by running `python main.py` in the root directory.
 The application depends on the following software:
-    - [CLOC](http://cloc.sourceforge.net/)
-    - [Git](https://www.python.org/)
-    - [Python](https://git-scm.com/)
-    - [Perl](https://www.perl.org/)
+- [CLOC](http://cloc.sourceforge.net/)
+- [Git](https://www.python.org/)
+- [Python](https://git-scm.com/)
+- [Perl](https://www.perl.org/)
     
 ## Configuration
 There are several configuration options in the json files of the config directory. 
